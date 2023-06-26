@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm bakiery</h1>
-<h3 align="center">I'm a bioinformatics student who enjoys working on independent data science projects</h3>
+<h3 align="center">I like working on independent data science projects</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bakiery" alt="bakiery" /></a> </p>
 
