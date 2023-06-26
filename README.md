@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bakiery" alt="bakiery" /></a> </p>
 
-- 🔭 My most recent project is ["Is My Child Autistic" AI facial detection tool](https://ismychildautistic.streamlit.app/)
+- 🔭 My most recent project is ["Is My Child Autistic" AI facial detection tool](https://ismychildautistic.streamlit.app/) (collab with jake-humphreys, alex-mazheika and Xavrob123)
 
 - 🌱 I’m currently learning **Bioinformatics, deep learning models for computer vision and natural language processing**
 
