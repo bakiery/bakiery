@@ -5,7 +5,7 @@
 
 - 🔭 My most recent project is ["Is My Child Autistic" AI facial detection tool](https://ismychildautistic.streamlit.app/) (collab with jake-humphreys, alex-mazheika and Xavrob123)
 
-- 🌱 I’m currently learning **Bioinformatics, deep learning models for computer vision and natural language processing**
+- 🌱 I’m currently learning **deep learning models for computer vision and natural language processing**
 
 - 👯 I’m looking to collaborate on **Data-driven research projects and open-source data science initiatives**
 
